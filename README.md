@@ -4,5 +4,5 @@ This repository contains topics that I am exploring in data science/analytics.
 File descriptions: 
 
 * Telco Customer Churn Analysis (Descriptive) - EDA 
-* NBC News Top Story Headlines - Web Scrapping 
+* NBC News Top Story Headlines - Data collection/ web scrapping
 
