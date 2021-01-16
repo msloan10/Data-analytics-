@@ -5,4 +5,5 @@ File descriptions:
 
 * Telco Customer Churn - Data cleaning/ EDA  [In-progress]
 * NBC News Top Story Headlines - Data collection/ Web scrapping
-* Houston Rockets Stats 2020-21 - Data collection/ Web scrapping
+* Houston Rockets Stats 2020-21 - Data collection/ Web scrapping 
+* Project 2 - Databases/SQL  
