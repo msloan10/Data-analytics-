@@ -1,4 +1,4 @@
-# Data-analytics-
+# Data Science Repository
 This repository contains topics that I am exploring in data science/analytics. My goals are to strengthen my current skills and build new ones.
 
 File descriptions: 
