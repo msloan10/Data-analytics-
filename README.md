@@ -6,7 +6,8 @@ File descriptions:
 Related Files: 
 
 * Telco Customer Churn - Data cleaning \ EDA \ Statistical modeling \ Data visualization\ Machine learning (Python)
-* Telco Demo Dashboard - Dashboard explaining demographic information on Telco Customer Churn project; Data visualization (Tableau) [In-progress]
+* Telco Demo Dashboard - Dashboard explaining demographic information on Telco Customer Churn project; 
+Data visualization (Tableau) [In-progress]
 
 Miscellaneous:
 
