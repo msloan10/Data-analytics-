@@ -3,7 +3,13 @@ This repository contains topics that I am exploring in data science/analytics. M
 
 File descriptions: 
 
-* Telco Customer Churn - Data cleaning \ EDA \ Statistical modeling \ Machine learning
-* NBC News Top Story Headlines - Data collection \  Web scrapping
-* Houston Rockets Stats 2020-21 - Data collection \ Web scrapping 
-* Project 2 - Databases \ SQL  
+Related Files: 
+
+* Telco Customer Churn - Data cleaning \ EDA \ Statistical modeling \ Data visualization\ Machine learning (Python)
+* Telco Demo Dashboard - Dashboard explaining demographic information on Telco Customer Churn project; Data visualization (Tableau) [In-progress]
+
+Misc.:
+
+* NBC News Top Story Headlines - Data collection \  Web scrapping (Python)
+* Houston Rockets Stats 2020-21 - Data collection \ Web scrapping (Python)
+* Project 2 - Databases (SQL)  
