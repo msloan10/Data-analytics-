@@ -3,13 +3,11 @@ This repository contains topics that I am exploring in data science/analytics. M
 
 File descriptions: 
 
-Related Files: 
-
+**Telco Analysis**
 * Telco Customer Churn - Data cleaning \ EDA \ Statistical modeling \ Data visualization\ Machine learning (Python)
-* Telco Demo Dashboard - Dashboard explaining demographic information on Telco Customer Churn Analysis; 
-Data visualization (Tableau) [In-progress]
+* Age and Dependents Dashboard- Dashboard on age and dependents information; Data visualization (Tableau) 
 
-Miscellaneous:
+**Miscellaneous**
 
 * NBC News Top Story Headlines - Data collection \  Web scrapping (Python)
 * Houston Rockets Stats 2020-21 - Data collection \ Web scrapping (Python)
