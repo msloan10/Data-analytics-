@@ -3,7 +3,7 @@ This repository contains topics that I am exploring in data science/analytics. M
 
 File descriptions: 
 
-**Telecommunications Customer Churn Analysis**
+**Telecommunications Customer Retention Analysis**
 * Telco Customer Churn - Data cleaning \ EDA \ Statistical modeling \ Data visualization\ Machine learning (Python)
 * Age and Dependents Dashboard- Dashboard on age and dependents information; Data visualization (Tableau) 
 * Demographic Churn - Dashboard relating to demographic churn; Data visualization (Tableau)  
