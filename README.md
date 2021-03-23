@@ -8,8 +8,12 @@ File descriptions:
 * Age and Dependents Dashboard- Dashboard on age and dependents information; Data visualization (Tableau) 
 * Demographic Churn - Dashboard relating to demographic churn; Data visualization (Tableau)  
 
+**Constraint Satisfaction Problem**
+* CSP Rubric - Explanation of the CSP
+* Task 3 - Code (Python)
+
 **Miscellaneous**
 
 * NBC News Top Story Headlines - Data collection \  Web scrapping (Python)
 * Houston Rockets Stats 2020-21 - Data collection \ Web scrapping (Python)
-* Project 2 - Databases (SQL)  
+* Project 2 - Databases (SQL) 
