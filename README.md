@@ -9,7 +9,7 @@ File descriptions:
 * Demographic Churn - Dashboard relating to demographic churn; Data visualization (Tableau)  
 
 **Constraint Satisfaction Problem**
-* CSP Rubric - Explanation of the CSP
+* CSP Rubric - Explanation of the problem
 * Task 3 - Code (Python)
 
 **Miscellaneous**
